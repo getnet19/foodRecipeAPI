@@ -1,0 +1,34 @@
+###SIMPLE FOOD RECIPE APP##
+
+This simple api is build like website of https://my.whisk.com/feed
+
+## to build i used different technoloy likes
+    #JWT AUTHORIZATION FOR CRUD OPPRATION
+    #crypto-js for password encription
+    #nodejs ,exppress handle HTTP REQUEST AND PARSE REQUEST DATA 
+    #NODEMON FOR SERVER AUTOMATICALLY RUN 
+    #MONGOOSE DB FOR DATABASE SCHEMA
+
+## THIS PROJECT MAKE DIFFERENT OPPERATION SOME OF ARE:-
+    #Users able to browse contributed Food recipes from other users
+● Users able to signup with their phone number or email address as a unique constraint
+#Users be able to log in and create a food recipe with the below-listed properties: -
+● upload multiple images 
+● Define recipe steps (it is dynamic)
+● Add multiple ingredients (maintained dynamically)
+● Set the time it takes to prepare the meal
+● Set multiple categories (it is dynamically defined)
+● set title and description of the recipe
+● Users should be able to interact with both their and another user's recipe: -
+● Users be able to like another user's recipe
+● Users be able to set favourite recipes
+● Users be able to comment on recipes
+● Users be able to rate recipes
+#The user be able to browse/filter using: -
+    ● categories set to recipes
+    ● recipes time duration
+    ● ingredients required for the recipe
+#The user able to search using: -
+    ● recipes title
+    ● recipes ingredients
+    ● recipes cookingHour
